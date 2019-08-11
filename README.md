@@ -2,7 +2,9 @@
 WordPress and the stuff, or is it...
 
 ### WP plugin SVN mirror
-https://github.com/WPPlugins
+* https://github.com/WPPlugins
+* https://wordpress.org/plugins/
+
 
 ### ToDo Workaround to be processed... 
 
@@ -18,7 +20,6 @@ https://github.com/WPPlugins
 
 
 ### Gutenberg
-* 
 * https://wordpress.org/plugins/gosign-masonry-post-block/
 
 ### Masonry layout
