@@ -24,15 +24,15 @@ https://wordpress.org/plugins/for-your-eyes-only/
 
 
 
-### PayPal payments for WP content
+### PayPal & payments for WP content
 
 https://github.com/sshyran/literally-wordpress
-
+https://github.com/sshyran/hampay
 
 
 ### User Management
 
-https://wordpress.org/plugins/gianism/
+https://github.com/sshyran/Gianism
 https://github.com/sshyran/gianism-github
 https://github.com/sshyran/Never-Let-Me-Go
 
@@ -54,5 +54,6 @@ https://github.com/sshyran/hamelp
 ### WP & GitHub
 
 https://github.com/sshyran/giploy
-
+https://github.com/sshyran/box2
+https://github.com/sshyran/wp-deploy
 
