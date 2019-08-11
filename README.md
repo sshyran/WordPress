@@ -1,8 +1,9 @@
 # WordPress
 WordPress and the stuff, or is it...
 
-Caching WP with Cloudflare
+# Caching in WordPress 
 
+### Cloudflare for WP caching
 https://wordpress.org/plugins/hamecache/
 
 
