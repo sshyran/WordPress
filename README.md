@@ -33,17 +33,26 @@ https://github.com/sshyran/literally-wordpress
 ### User Management
 
 https://wordpress.org/plugins/gianism/
+https://github.com/sshyran/gianism-github
 https://github.com/sshyran/Never-Let-Me-Go
 
 
 
 
+### Social Sharing
+
+https://wordpress.org/plugins/hametupack/
 
 
 
+### FAQ & Feedback
+
+https://github.com/sshyran/Anyway-Feedback
+https://github.com/sshyran/hamelp
 
 
+### WP & GitHub
 
-
+https://github.com/sshyran/giploy
 
 
