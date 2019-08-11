@@ -3,8 +3,10 @@ WordPress and the stuff, or is it...
 
 # Caching in WordPress 
 
-### Cloudflare for WP caching
-https://wordpress.org/plugins/hamecache/
+* Cloudflare for WP caching https://wordpress.org/plugins/hamecache/
+* https://www.html5rocks.com/en/tutorials/appcache/beginner/
+* https://alistapart.com/article/application-cache-is-a-douchebag/
+* https://github.com/sshyran/appcache-demo
 
 
 # Ads
