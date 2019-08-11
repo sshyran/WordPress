@@ -7,10 +7,16 @@ Intelligently insert speed bumps into site content.
 https://github.com/sshyran/speed-bumps-2
 
 
+https://wordpress.org/plugins/cookie-tasting/
++
+https://wordpress.org/plugins/for-your-eyes-only/
 
 
 
 
 
+### PayPal payments for WP content
+
+https://github.com/sshyran/literally-wordpress
 
 
