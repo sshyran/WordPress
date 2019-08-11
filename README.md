@@ -6,6 +6,7 @@ https://github.com/WPPlugins
 
 
 ### Caching in WordPress 
+* in-browser caching https://wordpress.org/plugins/appcachify/
 * Cloudflare for WP caching https://wordpress.org/plugins/hamecache/
 * https://www.html5rocks.com/en/tutorials/appcache/beginner/
 * https://alistapart.com/article/application-cache-is-a-douchebag/
@@ -56,6 +57,19 @@ https://github.com/WPPlugins
 
 ### Google API's
 * https://github.com/sshyran/google-api-php-client
+https://github.com/sshyran/gapiwp
+
+
+
+### Custom taxonomies, post types & permalinks
+
+https://wordpress.org/plugins/wp-permastructure/
+https://wordpress.org/plugins/spots/
+
+
+### Photo & thumbnail management
+
+https://wordpress.org/plugins/my-eyes-are-up-here/
 
 
 
